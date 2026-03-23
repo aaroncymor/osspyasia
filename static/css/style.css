@@ -1,15 +1,15 @@
 :root {
-  --cream: #f6f1eb;
-  --cream-dark: #ede6dc;
-  --indigo: #1b1464;
-  --indigo-light: #2d2387;
-  --gold: #d4952a;
-  --gold-light: #f0be5e;
-  --terracotta: #c75b39;
-  --sage: #5a7a64;
-  --text-dark: #1a1a1a;
-  --text-mid: #4a4a4a;
-  --text-light: #7a7a7a;
+  --cream: #F6F1EB;
+  --cream-dark: #EDE6DC;
+  --indigo: #1B1464;
+  --indigo-light: #2D2387;
+  --gold: #D4952A;
+  --gold-light: #F0BE5E;
+  --terracotta: #C75B39;
+  --sage: #5A7A64;
+  --text-dark: #1A1A1A;
+  --text-mid: #4A4A4A;
+  --text-light: #7A7A7A;
   --card-shadow: 0 2px 20px rgba(27, 20, 100, 0.06);
   --card-shadow-hover: 0 12px 40px rgba(27, 20, 100, 0.12);
 }
