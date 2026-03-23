@@ -1,0 +1,8 @@
+[project]
+name = "osspyasia"
+version = "0.1.0"
+description = "PythonAsia OSS Showcase"
+dependencies = ["air>=0.47.0"]
+
+[tool.fastapi]
+app = "main:app"
